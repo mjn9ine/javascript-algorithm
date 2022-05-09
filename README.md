@@ -8,4 +8,4 @@ Problem Solving with JavaScript✨✨
 
 ## 플랫폼
 
-- [프로그래머스](./Programmers/README.md)
+- [프로그래머스](./Programmers)
